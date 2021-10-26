@@ -1,2 +1,11 @@
+# Environments
+.env
+.venv
+env/
 venv/
-.idea/
+ENV/
+env.bak/
+venv.bak/
+
+# Secret files
+*.secret
